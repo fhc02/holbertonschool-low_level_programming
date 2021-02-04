@@ -11,10 +11,10 @@ int tipoEnteroMedio;
 short tipoEnteroCorto;
 long tipoEnteroLargo;
 float tipoFlotante;
-	printf("Size of a char: %s bytes\n", sizeof(caracter));
-	printf("Size of an int: %s bytes\n", sizeof(tipoEnteroMedio));
-	printf("Size of a long int: %s bytes\n", sizeof(tipoEnteroCorto));
-	printf("Size of a long long int: %s byte\n", sizeof(tipoEnteroLargo));
-	printf("Size of a float: %s byte\n", sizeof(tipoFlotante));
-	return (0);
+printf("Size of a char: %d bytes(s)\n", sizeof(caracter));
+printf("Size of an int: %d bytes(s)\n", sizeof(tipoEnteroMedio));
+printf("Size of a long int: %d bytes(s)\n", sizeof(tipoEnteroCorto));
+printf("Size of a long long int: %d byte(s)\n", sizeof(tipoEnteroLargo));
+printf("Size of a float: %d byte(s)\n", sizeof(tipoFlotante));
+return (0);
 }
