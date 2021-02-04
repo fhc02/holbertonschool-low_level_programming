@@ -8,8 +8,8 @@ int main(void)
 {
 char caracter;
 int tipoEnteroMedio;
-short tipoEnteroCorto;
-long tipoEnteroLargo;
+short int tipoEnteroCorto;
+long int tipoEnteroLargo;
 float tipoFlotante;
 printf("Size of a char: %d bytes(s)\n", sizeof(caracter));
 printf("Size of an int: %d bytes(s)\n", sizeof(tipoEnteroMedio));
