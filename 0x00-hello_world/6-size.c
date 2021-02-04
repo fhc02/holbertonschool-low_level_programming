@@ -6,15 +6,10 @@
 **/
 int main(void)
 {
-char caracter;
-int tipoEnteroMedio;
-short int tipoEnteroCorto;
-long int tipoEnteroLargo;
-float tipoFlotante;
-printf("Size of a char: %zu byte(s)\n", sizeof(caracter));
-printf("Size of an int: %zu byte(s)\n", sizeof(tipoEnteroMedio));
-printf("Size of a long int: %zu byte(s)\n", sizeof(tipoEnteroCorto));
-printf("Size of a long long int: %zu byte(s)\n", sizeof(tipoEnteroLargo));
-printf("Size of a float: %zu byte(s)\n", sizeof(tipoFlotante));
+printf("Size of a char: %zu byte(s)\n", sizeof(char));
+printf("Size of an int: %zu byte(s)\n", sizeof(int));
+printf("Size of a long int: %zu byte(s)\n", sizeof(short int));
+printf("Size of a long long int: %zu byte(s)\n", sizeof(long int));
+printf("Size of a float: %zu byte(s)\n", sizeof(float));
 return (0);
 }
