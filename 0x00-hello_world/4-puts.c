@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - String
+* main - Entry Point
 *
-* return :  0
+* Return: 0
 */
 
 int main(void)
