@@ -1,15 +1,16 @@
-¿Qué son los operadores aritméticos y cómo usarlos?
-¿Cuáles son los operadores lógicos (a veces llamados operadores booleanos) y cómo usarlos?
-Que son los operadores relacionales y como usarlos
-¿Qué valores se consideran VERDADEROS y FALSOS en C?
-Que son los operadores booleanos y como usarlos
-Cómo usar las declaraciones if,if ... else
-Cómo utilizar los comentarios
-Cómo declarar variables de tipos char, int,unsigned int
-Cómo asignar valores a variables
-Cómo imprimir los valores de las variables de tipo char, int, unsigned intconprintf
-Cómo usar el whilebucle
-Cómo usar variables con el whilebucle
-Cómo imprimir variables usando printf
-¿Cuál es el ASCIIconjunto de caracteres?
-¿Cuál es el propósito de las gccbanderas -m32y-m64
+General
+What are the arithmetic operators and how to use them
+What are the logical operators (sometimes called boolean operators) and how to use them
+What the the relational operators and how to use them
+What values are considered TRUE and FALSE in C
+What are the boolean operators and how to use them
+How to use the if, if ... else statements
+How to use comments
+How to declare variables of types char, int, unsigned int
+How to assign values to variables
+How to print the values of variables of type char, int, unsigned int with printf
+How to use the while loop
+How to use variables with the while loop
+How to print variables using printf
+What is the ASCII character set
+What are the purpose of the gcc flags -m32 and -m64§
