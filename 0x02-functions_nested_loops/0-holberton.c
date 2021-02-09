@@ -7,6 +7,6 @@
 */
 int main(void)
 {
-	_putchar("%c\n", "Holberton");
+	_putchar("Holberton\n");
 	return (0);
 }
