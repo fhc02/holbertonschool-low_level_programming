@@ -2,8 +2,8 @@
 
 /**
 * print_sign - Write a function that prints the sign of a number.
-*
 * Return: Always 0
+* @n: external Input
 */
 
 int print_sign(int n)
