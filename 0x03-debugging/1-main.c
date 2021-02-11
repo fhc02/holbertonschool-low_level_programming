@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
 * main - return a parameter
 * Return: 0
@@ -12,12 +13,11 @@ int main(void)
 
 	i = 0;
 
-	/*
-	* while (i < 10)
-	*{
-	*	putchar(i);
-	*}
-	*/
+	while (i < 10)
+	{
+		i++;/*  putchar(i); */
+	}
+
 	printf("Infinite loop avoided! \\o/\n");
 
 	return (0);
