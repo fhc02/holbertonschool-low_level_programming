@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
 * main - return a parameter
 * Return: Always 0.
